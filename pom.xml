@@ -54,15 +54,9 @@
           <version>3.0.2</version>
   </plugin>
    <plugin>
-<<<<<<< HEAD
         <groupId>maven</groupId>
         <artifactId>maven-war-plugin</artifactId>
 	<version>3.0.2</version>
-=======
-       <groupId>maven</groupId>
-<artifactId>maven-war-plugin</artifactId>
-<version>3.8.0</version>
->>>>>>> refs/remotes/origin/master
 </plugin>
         <plugin>
           <artifactId>maven-install-plugin</artifactId>
